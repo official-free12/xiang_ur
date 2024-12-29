@@ -1,0 +1,6 @@
+# 响应式金融理财服务管理网站（含一个域名商业授权）
+
+example.com，非DEDEcms内核，后台简洁，为企业网站而生。<br>需要测试后台请联系我们客服QQ48346509我们搭建测试网站给您测试（一对一服务，满意再购买）。<br>这是一套购买就能建站的程序，不定期更新程序BUG，更新网站功能，网站后台一键更新。<br>我们卖的不仅仅是源码模板这么简单，我们还提供域名、服务器、程序相关咨询、协助安装等服务。<br>此套程序模板包含正版商业授权，安装好程序后，提供正确顶级域名联系我们QQ48346509进行正版商业授权。<br>顶级域名授权之后所有下级域名均默认授权<br>演示地址：http://example.com;<br>模板信息：<br>模板编号：8173<br>模板编码：UTF8<br>模板分类：金融、投资、保险理财适合行业：example.com，非DEDEcms内核，后台简洁，为企业网站而生。<br>需测试后台请联系我们QQ：48346509，我们搭建测试网站给您测试（一对一服务，满意再购买）。<br>这是一套购买就能建站的程序，不定期更新程序BUG，更新网站功能。<br>我们卖的不仅仅是源码模板这么简单，我们还提供程序相关咨询、协助安装等服务。<br>此套程序模板含正版商业授权，安装好程序后，<br>提供正确顶级域名联系我们进行正版商业授权。<br>默认不包含小程序插件，需要另外单独购买插件。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/Vzu8S" style="color: red;">https://mega-file.org/Vzu8S</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
